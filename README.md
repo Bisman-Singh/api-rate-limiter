@@ -92,3 +92,5 @@ bucket.destroy();
 | `Retry-After`          | Seconds to wait (only on 429)          |
 
 
+
+<sub><sup>Originally developed and tested locally during learning. Later organized and pushed to GitHub for portfolio visibility.</sup></sub>
